@@ -9,9 +9,4 @@ format:
     toc: true
     comments:
       hypothesis: true
-  docx: default
-  jats: default
-  agu-pdf: default
-
-
-
+    theme: [default, custom.scss]
